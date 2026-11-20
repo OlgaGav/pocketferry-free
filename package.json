@@ -1,0 +1,12 @@
+{
+  "name": "pocketferry-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "PocketFerry website with built-in, cookieless visitor and download statistics.",
+  "main": "server.js",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js",
+    "test": "node --disable-warning=ExperimentalWarning test/smoke.js"
+  }
+}
