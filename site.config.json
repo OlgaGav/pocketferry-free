@@ -2,14 +2,13 @@
   "name": "PocketFerry",
   "siteUrl": "",
   "version": "1.0.0",
-  "updated": "2026-11-16",
-  "timezone": "America/Los_Angeles",
+  "updated": "2026-11-21",
   "publisher": "",
   "contactEmail": "",
   "sourceUrl": "",
   "downloads": {
-    "mac": { "url": "", "requires": "" },
-    "windows": { "url": "", "requires": "" },
-    "linux": { "url": "", "requires": "" }
+    "mac": { "url": "https://github.com/OlgaGav/pocketferry-free/releases/latest/download/PocketFerry.dmg", "requires": "a Mac with Apple silicon (M1 or later)" },
+    "windows": { "url": "https://github.com/OlgaGav/pocketferry-free/releases/latest/download/PocketFerry-Setup.exe", "requires": "" },
+    "linux": { "url": "https://github.com/OlgaGav/pocketferry-free/releases/latest/download/PocketFerry.AppImage", "requires": "" }
   }
 }
