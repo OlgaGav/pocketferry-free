@@ -6,6 +6,7 @@
   "publisher": "",
   "contactEmail": "",
   "sourceUrl": "",
+  "googleSiteVerification": "KlbGn2W6MjXOkWgILeRLDh5MIqvLMRm0pFVysB7K3BE",
   "downloads": {
     "mac": { "url": "https://github.com/OlgaGav/pocketferry-free/releases/latest/download/PocketFerry.dmg", "requires": "a Mac with Apple silicon (M1 or later)" },
     "windows": { "url": "https://github.com/OlgaGav/pocketferry-free/releases/latest/download/PocketFerry-Setup.exe", "requires": "" },
