@@ -90,6 +90,8 @@ says so. If you add an analytics service later, update the privacy page and the 
 
 ## Layout
 
+How to edit, add and preview pages: [docs/how-pages-work.md](docs/how-pages-work.md).
+
 ```
 build.js                     writes the site into dist/: pages, assets, robots.txt, sitemap.xml, llms.txt, 404.html
 lib/pages.js                 all page content, FAQ, llms.txt
